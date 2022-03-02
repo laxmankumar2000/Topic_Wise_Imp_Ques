@@ -1,4 +1,4 @@
-package Tree;
+package Tree.GFG;
 
 /*
 Given a binary tree, find if it is height balanced or not.
